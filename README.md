@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Carlos! &nbsp<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
+<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hi there, I'm Carlos! &nbsp<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlosIgreda&label=Profile%20views&color=0e75b6&style=flat" alt="estherstarr" /> </p>
 <!-- Social icons section -->
