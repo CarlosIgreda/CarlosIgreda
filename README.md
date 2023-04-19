@@ -6,7 +6,7 @@
 <a  href="https://twitter.com/carlosigreda"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/twitter.png" height="40"  width="40"  /></a>
 &#8287;&#8287;&#8287;
-<a  href="https://www.linkedin.com/in/carlos-jes%C3%BAs-igreda-rivas-323763116/"  target="_blank">
+<a  href="https://www.linkedin.com/in/carlosigreda"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
 &#8287;&#8287;&#8287;&nbsp;
 <a href="mailto:cjigredarivas@gmail.com" target="_blank">
