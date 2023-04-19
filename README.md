@@ -16,7 +16,7 @@
 
 ### About Me  <br>
 
-- 👩‍💻 I'm a **Full-Stack Software Engineer** studying currently at [Microverse](https://www.microverse.org/) a remote and multicultural community where I'm learning to code, skills of communication and teamwork. I also hold a degree in Industrial Engineering from San Marcos University in Peru.
+- 👩‍💻 I'm a **Full-Stack Developer** studying currently at [Microverse](https://www.microverse.org/) a remote and multicultural community where I'm learning to code, skills of communication and teamwork. I also hold a degree in Industrial Engineering from San Marcos University in Peru.
 
 - 👥 I’m currently mentoring 2 new students from Microverse and I'm glad to be part of this mentorship program.
 
