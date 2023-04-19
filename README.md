@@ -1,4 +1,4 @@
-<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hi there, I'm Carlos! &nbsp<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
+<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=247FA7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Carlos!" alt="Typing SVG" /><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlosIgreda&label=Profile%20views&color=0e75b6&style=flat" alt="estherstarr" /> </p>
 <!-- Social icons section -->
