@@ -32,7 +32,8 @@
 ### Certificates & Licenses 🥇 <br>
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557283" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557283" width="80"></a>&nbsp; &nbsp;
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73436909" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73436909" width="80"></a>
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73436909" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73436909" width="80"></a>&nbsp; &nbsp;
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75355985" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75355985" width="80"></a>
 </p>
 
 ---
